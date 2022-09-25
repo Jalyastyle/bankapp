@@ -6,5 +6,6 @@ namespace Bank_Application.Data
 {
     class GenericBank
     {
+
     }
 }
